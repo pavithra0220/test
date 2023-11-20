@@ -1,0 +1,26 @@
+/* body {
+    background-color: red;
+  } */
+.content{
+    background-color: rgb(151, 53, 53);
+   width: 100%;
+   height: 654px;
+}
+.leftcontent{
+    background-color: blue;
+    float: left;
+    width: 30%;
+    height:654px
+}
+li,h3{
+  margin-inline-start: 10px;
+  list-style-type: none;
+  color: white;
+  line-height: 51px;
+}
+.right{
+    background-color: beige;
+    float: right;
+    width: 70%;
+    height:654px
+}

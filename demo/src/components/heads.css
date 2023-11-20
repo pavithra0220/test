@@ -1,0 +1,29 @@
+.head{
+    width: 100%;
+    height: 125px;
+    background-color: rgb(82, 153, 50);
+    text-align: center;
+    padding: 15px;
+}
+.content{
+    width: 100%;
+    height: 350px;
+}
+.left{
+    width: 50%;
+    height: 350px;
+    background-color: rgb(204, 47, 139);
+    float:left
+}
+.right{
+    width: 50%;
+    height: 350px;
+    background-color: rgb(145, 110, 65);
+    float:right
+}
+.foot{
+    width: 100%;
+    height: 150px;
+    background-color: rgb(178, 61, 194);
+    text-align: center;
+}
